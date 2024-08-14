@@ -1,6 +1,5 @@
-Here's a detailed `README.md` file tailored for the **Born2BeRoot** project from 42. It assumes the project involves setting up and configuring a virtual machine (VM), managing partitions, users, groups, and implementing some security measures. You can adapt it to your specific needs.
 
-```markdown
+
 # Born2BeRoot
 
 ## Table of Contents
