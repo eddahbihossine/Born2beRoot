@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Monitoring.sh                                      :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: heddahbi <heddahbi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/04/15 06:30:40 by heddahbi          #+#    #+#              #
+#    Updated: 2024/08/15 00:53:01 by heddahbi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 #!/bin/bash
 
 #this is just an example of a script that can be used to monitor the system
